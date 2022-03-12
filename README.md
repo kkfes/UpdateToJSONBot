@@ -5,4 +5,4 @@
   public static final String BOT_NAME = "Имя бота";
   public static final String BOT_TOKEN = "Токен бота";
   
-###  При отпавки боту любое сообщение бот отправит вам его в JSON формате
+###  При отправки боту любое сообщение бот отправит вам его в JSON формате
